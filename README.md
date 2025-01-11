@@ -1,5 +1,5 @@
 
-![chatgpt_baner.jpg](data/chatgpt_baner.jpg)
+![chatgpt_baner.jpg](Data/chatgpt_baner.jpg)
 
 ## Table of Contents
 1. [The Challenge](#the-challenge)
@@ -40,7 +40,7 @@ The program should implement the 2 commands described below and exit when a blan
 ```
 Search(H1, 35, SGL)
 ```
-~~~~
+
 The program should return a comma separated list of date ranges and availability where the room is available.
 In this example, `35` is the number of days ahead to query for availability.
 If there is no availability the program should return an empty line.
